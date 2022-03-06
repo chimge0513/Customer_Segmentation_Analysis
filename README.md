@@ -1,0 +1,2 @@
+# Customer_Segmentation_Analysis_Using_Python
+There has never been a better time for companies to get ahead in the market by understanding their customers on a deeper level and who their typical customers are for a specific product or a service. In this data science project, I segmented the customer data into different groups based on their personal attributes such as demographic information, products purchase and campaign responses. I also attempted to predict which customer segment that Company X should target for a particular product or a marketing campaign. 
